@@ -1,0 +1,2 @@
+# tsugidoko-pic
+Tsugidoko resources
